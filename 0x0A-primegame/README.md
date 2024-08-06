@@ -1,2 +1,1 @@
-Prime game interview question.
-
+0x0A. Prime Game
